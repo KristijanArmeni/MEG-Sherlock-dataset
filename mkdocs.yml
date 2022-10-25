@@ -1,0 +1,4 @@
+site_name: MEG Sherlock Project
+nav:
+  - 'Home': 'index.md'
+  - 'about.md'
