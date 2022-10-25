@@ -1,4 +1,8 @@
-site_name: MEG Sherlock Project
+site_name: Deep-MEG Sherlock Project
+site_author: Kristijan Armeni
+site_url: https://kristijanarmeni.github.io/MEG-Sherlock-dataset/
+repo_url: https://github.com/KristijanArmeni/MEG-Sherlock-dataset
 nav:
   - 'Home': 'index.md'
+  - 'documentation.md'
   - 'about.md'
